@@ -2,7 +2,7 @@
 <index>
 	<info>
 		<name>CustomDomain</name>
-		<update version="1.0.3">
+		<update version="1.1">
 			<file name="HomebrewStuff.index" url="https://raw.githubusercontent.com/jackhalsall/Homebrew/master/HomebrewStuff.index" />
 		</update>
 	</info>

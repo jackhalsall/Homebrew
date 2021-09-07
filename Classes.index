@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>DarkSun Conversion: Classes</name>
+		<description>Used for the campaign</description>
+		<update version="0.0.14">
+			<file name="classes.index" url="https://raw.github.com/jackhalsall/Homebrew/new/main/Classes.index" />
+		</update>
+	</info>
+	<files>
+        <!-- Cleric -->
+        <file name="CustomDomain.xml" url="https://raw.github.com/jackhalsall/Homebrew/tree/main/Classes/CustomDomain.xml" />
+	</files>
+</index>

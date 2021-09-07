@@ -3,10 +3,10 @@
 	<info>
 		<name>CustomDomain</name>
 		<update version="1.0.0">
-			<file name="HomebrewStuff.index" url="https://raw.githubusercontent.com/jackhalsall/Homebrew/tree/main/HomebrewStuff.index" />
+			<file name="HomebrewStuff.index" url="https://raw.githubusercontent.com/jackhalsall/Homebrew/master/HomebrewStuff.index" />
 		</update>
 	</info>
 	<files>
-		<file name="CustomDomain.xml" url="https://raw.githubusercontent.com/jackhalsall/Homebrew/tree/main/Classes/CustomDomain.xml" />
+		<file name="CustomDomain.xml" url="https://raw.githubusercontent.com/jackhalsall/Homebrew/master/Classes/CustomDomain.xml" />
 	</files>
 </index>

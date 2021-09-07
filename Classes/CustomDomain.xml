@@ -2,6 +2,7 @@
 <elements>
 	<info>
 		<name>Custom Domain</name>
+		<update version="1.0.0">
 		<description>Custom Domain from the DM</description>
 		<author>Max</author>
 	</info>

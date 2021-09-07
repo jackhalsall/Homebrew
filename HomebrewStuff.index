@@ -1,22 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <index>
 	<info>
-		<name>HomebrewStuff</name>
-		<description>Matreials to use in the campaign</description>
-		<update version="0.0.5">
-			<file name="HomebrewStuff.index" url="https://raw.github.com/jackhalsall/Homebrew/tree/main/HomebrewStuff.index" />
+		<name>CustomDomain</name>
+		<update version="1.0.0">
+			<file name="HomebrewStuff.index" url="https://raw.githubusercontent.com/jackhalsall/Homebrew/tree/main/HomebrewStuff.index" />
+			https://github.com/jackhalsall/Homebrew/tree/main
 		</update>
 	</info>
 	<files>
-		<!-- Prerequisites -->
-		<file name="core.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core.index" />
-		<file name="unearthed-arcana.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/unearthed-arcana.index" />
-		<file name="sword-coast-adventurers-guide.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/sword-coast-adventurers-guide.index" />
-		<file name="xanathars-guide-to-everything.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/xanathars-guide-to-everything.index" />
-		
-		<!-- HomeBrew -->
-		
-
-		<file name="Classes.index" url="https://raw.github.com/jackhalsall/Homebrew/tree/main/Classes.index" />
+		<file name="file1.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file1.xml" />
+		<file name="file2.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file2.xml" />
 	</files>
 </index>

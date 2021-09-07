@@ -4,11 +4,9 @@
 		<name>CustomDomain</name>
 		<update version="1.0.0">
 			<file name="HomebrewStuff.index" url="https://raw.githubusercontent.com/jackhalsall/Homebrew/tree/main/HomebrewStuff.index" />
-			https://github.com/jackhalsall/Homebrew/tree/main
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file1.xml" />
-		<file name="file2.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file2.xml" />
+		<file name="CustomDomain.xml" url="https://raw.githubusercontent.com/jackhalsall/Homebrew/tree/main/Classes/CustomDomain.xml" />
 	</files>
 </index>

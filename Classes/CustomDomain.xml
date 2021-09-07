@@ -2,7 +2,9 @@
 <elements>
 	<info>
 		<name>Custom Domain</name>
-		<update version="1.5.0">
+		<update version="1.6.0">
+			<file name="CustomDomain.xml" url="https://raw.githubusercontent.com//jackhalsall/Homebrew/Classes/CustomDomain.xml" />
+		</update>
 		<description>Custom Domain from the DM</description>
 		<author>Max</author>
 	</info>
